@@ -3,6 +3,8 @@ This is a project I developed using the RobotDYN PWM AC dimmer, for my Gemilai G
 
 This mod *should* work on any espresso machine that uses an AC vibratory pump, such as the ULKA EX5/EP5 or similar 110-220v AC pump.
 
+### Disclosure: build this prject at your own risk, seemingly insignificant things such as connecting incorrect wires to your potentiometer, or running virbatory pumps dry can both start fires and a standard 120v outlet can and WILL kill you if shocked.
+
 #### parts list:
   - RobotDYN - PWM Ac Programmable Light Dimmer https://a.co/d/021D6dAU
   - 14-16awg wire https://a.co/d/083oG2C8
