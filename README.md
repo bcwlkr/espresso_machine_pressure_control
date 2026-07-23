@@ -1,4 +1,4 @@
-# espresso_machine_pressure_control
+# Espresso machine pressure/flow control
 This is a project I developed using the RobotDYN PWM AC dimmer, for my Gemilai G3006 (owl).
 
 This mod *should* work on any espresso machine that uses an AC vibratory pump, such as the ULKA EX5/EP5 or similar 110-220v AC pump.
