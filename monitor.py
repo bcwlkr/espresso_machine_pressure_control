@@ -12,7 +12,7 @@ except ImportError:
     sys.exit(1)
 
 # Default configuration
-DEFAULT_PORT = "COM5"
+DEFAULT_PORT = "COM5" #depending on your PC and USB controller/chipset you may need to change this COM port.
 DEFAULT_BAUD = 9600
 MAX_POINTS = 200  # Number of points to display in rolling plot
 
